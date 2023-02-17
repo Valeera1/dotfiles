@@ -1,0 +1,35 @@
+
+
+  
+
+window:
+  # Background opacity
+  #
+  # Window opacity as a floating point number from `0.0` to `1.0`.
+  # The value `0.0` is completely transparent and `1.0` is opaque.
+  opacity: 1.0
+
+  padding:
+    x: 30
+    y: 30
+  dynamic_padding: false
+
+opacity: 0.5
+
+font:
+  normal:
+    family: Iosevka 
+    style: Regular
+
+
+  bold:
+    family: Iosevka
+    style: Bold
+
+
+  italic:
+     family: Iosevka
+
+
+  size: 11.0
+
